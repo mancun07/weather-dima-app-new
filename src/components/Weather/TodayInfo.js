@@ -12,6 +12,7 @@ const TodayInfo = () => {
             Teмпература воздуха {weather.main.temp} °C.
             Ожидаемая максимальная температура воздуха сегодня {weather.main.temp_max} °C. 
             </p>
+            111
         </div>
     )
 }
