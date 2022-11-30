@@ -1,6 +1,7 @@
 import React from 'react'
 import { useSelector } from 'react-redux';
 import classes from './DailyWeather.module.css'
+import {v4} from 'uuid'
 
 const DailyWeather = () => {
 
@@ -18,7 +19,7 @@ const DailyWeather = () => {
         return {
             ...el,
             dt: daysOfWeek[humanDateFormat], 
-            id: Math.random()
+            id: v4()
         }
     })
 

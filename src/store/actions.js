@@ -12,6 +12,7 @@ export const actionsfetchDataHandler = (userValue) => {
           }
           const data = await response.json()
           dispatch(cityActions.addWeather(data))
+          console.log(typeof(data))
           return data
           }
 

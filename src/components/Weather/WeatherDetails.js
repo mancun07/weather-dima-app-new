@@ -2,6 +2,7 @@ import React from 'react'
 import { useSelector } from 'react-redux';
 import classes from './WeatherDetails.module.css'
 import {motion} from 'framer-motion'
+import {v4} from 'uuid'
 
 const WeatherDetails = () => {
 
@@ -16,7 +17,7 @@ const WeatherDetails = () => {
         return {
             ...el,
             dt: humanTimeFormat,
-            id: Math.random()
+            id: v4()
         }
     })
 
