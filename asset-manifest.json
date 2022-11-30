@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/weather-dima-app-new/static/css/main.dcc76ac9.chunk.css",
+    "main.css": "/weather-dima-app-new/static/css/main.513a3d49.chunk.css",
     "main.js": "/weather-dima-app-new/static/js/main.8ce70687.chunk.js",
     "main.js.map": "/weather-dima-app-new/static/js/main.8ce70687.chunk.js.map",
     "runtime-main.js": "/weather-dima-app-new/static/js/runtime-main.7b4a03c7.js",
@@ -10,13 +10,13 @@
     "static/js/3.f5f38083.chunk.js": "/weather-dima-app-new/static/js/3.f5f38083.chunk.js",
     "static/js/3.f5f38083.chunk.js.map": "/weather-dima-app-new/static/js/3.f5f38083.chunk.js.map",
     "index.html": "/weather-dima-app-new/index.html",
-    "static/css/main.dcc76ac9.chunk.css.map": "/weather-dima-app-new/static/css/main.dcc76ac9.chunk.css.map",
+    "static/css/main.513a3d49.chunk.css.map": "/weather-dima-app-new/static/css/main.513a3d49.chunk.css.map",
     "static/js/2.a501a518.chunk.js.LICENSE.txt": "/weather-dima-app-new/static/js/2.a501a518.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7b4a03c7.js",
     "static/js/2.a501a518.chunk.js",
-    "static/css/main.dcc76ac9.chunk.css",
+    "static/css/main.513a3d49.chunk.css",
     "static/js/main.8ce70687.chunk.js"
   ]
 }
